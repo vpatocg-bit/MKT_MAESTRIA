@@ -1,0 +1,1121 @@
+{
+  "programa": {
+    "nombre": "Maestría en Marketing Digital",
+    "institucion": "Escuela Superior Politécnica de Chimborazo (ESPOCH) - IPEC",
+    "campo_amplio": "04 Administración",
+    "resolucion": "Resolución 096.CP.2023",
+    "modalidad": "En línea",
+    "duracion_periodos": 2,
+    "semanas_por_periodo": 16,
+    "total_horas": 1440,
+    "total_creditos": 30,
+    "asistencia_minima_porcentaje": 75,
+    "antiplagio_max_porcentaje": 10,
+    "ia_max_porcentaje": 5,
+    "nota_minima_aprobacion": 7.00,
+    "escala_calificacion": [
+      { "rango": "9.50 a 10.00", "valoracion": "Excelente", "resultado": "Aprueba" },
+      { "rango": "8.50 a 9.49", "valoracion": "Muy bueno", "resultado": "Aprueba" },
+      { "rango": "7.50 a 8.49", "valoracion": "Bueno", "resultado": "Aprueba" },
+      { "rango": "7.00 a 7.49", "valoracion": "Regular", "resultado": "Aprueba (mínimo)" },
+      { "rango": "Menor a 7.00", "valoracion": "Insuficiente", "resultado": "Reprueba" }
+    ],
+    "modalidad_evaluacion": [
+      {
+        "componente": "Trabajos de investigación y tareas",
+        "ponderacion": 0.35,
+        "porcentaje": "35%",
+        "descripcion": "Desarrollarse de forma individual o en equipos colaborativos. Instrumentos: informes de investigación autónoma, ensayos críticos, talleres aplicados, resolución de problemas complejos, estudios de caso y trabajo de campo."
+      },
+      {
+        "componente": "Exámenes parciales y participación",
+        "ponderacion": 0.35,
+        "porcentaje": "35%",
+        "descripcion": "Evaluación procesual continua formativa. Instrumentos: exámenes parciales teóricos y/o prácticos por unidad, lecciones orales o escritas, exposiciones, análisis en foros y simulaciones."
+      },
+      {
+        "componente": "Evaluación final obligatoria",
+        "ponderacion": 0.30,
+        "porcentaje": "30%",
+        "descripcion": "Evaluación sumativa e individual holística estrictamente escrita, o Proyecto final aplicado a un caso de marketing digital."
+      }
+    ],
+    "franjas_horarias_oficiales": [
+      { "dia": "Viernes", "horario": "17:00 a 21:00", "horas": 4 },
+      { "dia": "Sábado (Mañana)", "horario": "08:00 a 12:00", "horas": 4 },
+      { "dia": "Sábado (Tarde)", "horario": "14:00 a 18:00", "horas": 4 },
+      { "dia": "Domingo (Mañana)", "horario": "08:00 a 12:00", "horas": 4 },
+      { "dia": "Domingo (Tarde)", "horario": "14:00 a 18:00", "horas": 4 }
+    ]
+  },
+  "asignaturas": [
+    {
+      "id": "blended-marketing",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 1,
+      "nombre_asignatura": "Blended Marketing",
+      "unidad_organizacion_curricular": "Unidad de Formación Disciplinar Avanzada",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Plataforma Moodle institucional; Microsoft Teams; videos y lecturas especializadas; estudios de caso; foros de discusión. Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Introducción. La importancia del Blended Marketing",
+          "objetivo": "Comprender la importancia del Blended Marketing.",
+          "temas_subtemas": ["Introducción. La importancia del Blended Marketing", "La importancia del Blended Marketing"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Lecturas sobre convergencia on/off, artículos científicos de Blended Marketing y omnicanalidad (Kotler, 2021).",
+          "tareas": "Ensayo reflexivo comparando estrategias 100% digitales vs. híbridas (Blended) en un sector a elección."
+        },
+        {
+          "numero": 2,
+          "titulo": "Situación actual del marketing (offline y online)",
+          "objetivo": "Analizar la situación actual del marketing offline y online.",
+          "temas_subtemas": ["Situación actual del marketing (offline y online)"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Reportes de la IAB y métricas de inversión publicitaria digital global y regional.",
+          "tareas": "Estudio de caso: Auditoría del ecosistema comercial de una marca local evaluando sinergia offline-online."
+        },
+        {
+          "numero": 3,
+          "titulo": "Configuración del Buyer Persona",
+          "objetivo": "Construir el Buyer Persona de la empresa.",
+          "temas_subtemas": ["Configuración del Buyer Persona"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Metodologías de User Research, mapa de empatía y entrevistas en profundidad aplicadas al marketing.",
+          "tareas": "Taller práctico: Elaboración de fichas de 2 Buyer Personas arquetípicos con mapa de dolor y motivaciones de compra."
+        },
+        {
+          "numero": 4,
+          "titulo": "Estrategias Outbound e Inbound Marketing",
+          "objetivo": "Desarrollar estrategias outbound e inbound con marketing de contenidos.",
+          "temas_subtemas": ["Estrategias Outbound e Inbound Marketing", "Marketing de contenidos"],
+          "horario_propuesto": "Domingo 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "HubSpot Inbound Methodology guides, frameworks de Content Marketing Institute.",
+          "tareas": "Diseño de un calendario editorial y flujo inbound con lead magnet para atracción de prospectos cualificados."
+        },
+        {
+          "numero": 5,
+          "titulo": "Identidad verbal y visual",
+          "objetivo": "Desarrollar la identidad verbal y visual de la empresa.",
+          "temas_subtemas": ["Identidad verbal y visual", "Énfasis en la voz de una empresa"],
+          "horario_propuesto": "Domingo 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Brand Book frameworks, guías de tono y estilo verbal (Tone of Voice).",
+          "tareas": "Manual sintético de identidad de marca: manual de voz, tono ante crisis y guía de estilo para canales digitales."
+        },
+        {
+          "numero": 6,
+          "titulo": "Modelos de negocio de una empresa",
+          "objetivo": "Diseñar modelos de negocio de una empresa.",
+          "temas_subtemas": ["Modelos de negocio de una empresa"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Business Model Canvas (Osterwalder), modelos de monetización SaaS, Marketplace y suscripciones.",
+          "tareas": "Desarrollo del lienzo Canvas digital integrado para una startup o línea de negocio innovadora."
+        },
+        {
+          "numero": 7,
+          "titulo": "Estrategia de canales digitales",
+          "objetivo": "Implementar estrategias de canales digitales.",
+          "temas_subtemas": ["Estrategia de canales digitales"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Modelos PESO (Paid, Earned, Shared, Owned media) y orquestación multicanal.",
+          "tareas": "Matriz de selección y priorización de canales digitales según etapas del ciclo de vida del cliente."
+        },
+        {
+          "numero": 8,
+          "titulo": "Introducción a las principales métricas",
+          "objetivo": "Aplicar las principales métricas de marketing.",
+          "temas_subtemas": ["Introducción a las principales métricas"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Fórmulas de CAC, LTV, ROI, ROAS, Churn rate y dashboarding introductorio.",
+          "tareas": "Informe analítico de rentabilidad publicitaria con cálculo y propuestas de optimización de CAC y LTV."
+        }
+      ]
+    },
+    {
+      "id": "investigacion-analitica-mercados",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 1,
+      "nombre_asignatura": "Investigación Analítica de Mercados Digitales",
+      "unidad_organizacion_curricular": "Unidad de Integración Curricular",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Plataforma Moodle; Microsoft Teams; herramientas de escucha en redes sociales (demostración); encuestas en línea; estudios de caso. Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "La Investigación de Mercados",
+          "objetivo": "Comprender el concepto y los objetivos de la investigación de mercados.",
+          "temas_subtemas": ["La Investigación de Mercados", "Concepto y objetivos"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 6,
+          "material_investigacion": "Metodología de investigación cuantitativa y cualitativa en entornos digitales.",
+          "tareas": "Propuesta de investigación de mercado digital: planteamiento del problema, hipótesis y muestra."
+        },
+        {
+          "numero": 2,
+          "titulo": "Análisis del Customer Journey",
+          "objetivo": "Analizar el customer journey con herramientas de búsqueda de información y de social media.",
+          "temas_subtemas": ["Análisis del Customer Journey", "Estrategias de búsqueda de información", "Identificación y selección de herramientas de social media y comercialización"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 6,
+          "material_investigacion": "Customer Journey Maps, social listening tools (Brandwatch, Mention, Talkwalker).",
+          "tareas": "Mapeo del viaje del consumidor digital con puntos de contacto (touchpoints), momentos de fricción y oportunidades."
+        },
+        {
+          "numero": 3,
+          "titulo": "Comunicación en redes sociales",
+          "objetivo": "Gestionar la reputación y segmentar audiencias en redes sociales.",
+          "temas_subtemas": ["Comunicación en redes sociales", "Gestión de la reputación", "Segmentación de audiencias y selección de mercados"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 6,
+          "material_investigacion": "Auditorías de reputación online (ORM) y segmentación con Facebook Audience Insights y LinkedIn Campaign Manager.",
+          "tareas": "Informe de escucha social y auditoría de reputación de marca con segmentación por clústeres de interés."
+        },
+        {
+          "numero": 4,
+          "titulo": "Análisis, métodos, aspectos legales y éticos de la venta digital",
+          "objetivo": "Aplicar métodos de análisis con criterio legal y ético en la venta digital.",
+          "temas_subtemas": ["Análisis, métodos, aspectos legales y éticos de la venta digital"],
+          "horario_propuesto": "Domingo 08:00–12:00",
+          "horas_en_vivo": 7,
+          "material_investigacion": "Ley Orgánica de Protección de Datos Personales (Ecuador / GDPR), cookies y ética del rastreo.",
+          "tareas": "Checklist de cumplimiento ético-legal para un sitio de venta digital y política de consentimiento."
+        }
+      ]
+    },
+    {
+      "id": "lead-generation-nurturing",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 1,
+      "nombre_asignatura": "Lead Generation & Lead Nurturing",
+      "unidad_organizacion_curricular": "Unidad de Formación Disciplinar Avanzada",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Plataforma Moodle; Microsoft Teams; HubSpot (demostración); plataformas de publicidad digital (demostración); estudios de caso. Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Estrategias de contenidos",
+          "objetivo": "Desarrollar estrategias de contenidos con herramientas digitales de marketing.",
+          "temas_subtemas": ["Estrategias de contenidos", "Herramientas digitales de marketing", "Search engine marketing (SEM)", "Publicidad display en internet", "Marketing de afiliación", "Comunicación efectiva en redes sociales", "Influencia en el comportamiento de compra de los consumidores digitales"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Guías de Google Ads, Meta Ads Manager, redes de afiliados y copy persuasivo.",
+          "tareas": "Diseño de campaña multicanal para captura de leads con copys, landing page wireframe y segmentación."
+        },
+        {
+          "numero": 2,
+          "titulo": "Modalidades de generación de leads",
+          "objetivo": "Aplicar procesos efectivos de lead nurturing y acompañar la toma de decisiones.",
+          "temas_subtemas": ["Modalidades de generación de leads", "Procesos efectivos de lead nurturing", "Acompañamiento en la toma de decisiones a través de lead nurturing", "Plan de marketing digital y analítico"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Lead Scoring y Lead Grading en HubSpot/ActiveCampaign, flujos de automatización de email.",
+          "tareas": "Construcción de un flujo de nutrición automatizada (drip campaign) con matriz de puntuación de leads."
+        },
+        {
+          "numero": 3,
+          "titulo": "Planteamiento, selección de recursos, ejecución, análisis y presentación de resultados – Zen marketing",
+          "objetivo": "Planificar, ejecutar y presentar los resultados de un plan de marketing digital y analítico.",
+          "temas_subtemas": ["Planteamiento, selección de recursos, ejecución, análisis y presentación de resultados – Zen marketing"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Metodología Zen Marketing, dashboard de prospección y análisis de ratio MQL a SQL.",
+          "tareas": "Proyecto de campaña de generación de prospectos con pronóstico de conversión y retorno de inversión."
+        }
+      ]
+    },
+    {
+      "id": "neuropsicologia-experiencia-usuario",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 1,
+      "nombre_asignatura": "Neuropsicología y experiencia de usuario",
+      "unidad_organizacion_curricular": "Unidad de Investigación",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Plataforma Moodle; Microsoft Teams; lecturas científicas; prototipado de interfaces (demostración); estudios de caso. Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Bases conceptuales de la Neuropsicología",
+          "objetivo": "Distinguir las bases conceptuales y campos de aplicación de la neuropsicología.",
+          "temas_subtemas": ["Bases conceptuales de la Neuropsicología", "Conceptos básicos", "Importancia", "Campos de aplicación"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 6,
+          "material_investigacion": "Artículos científicos sobre neurociencia cognitiva y bases cerebrales de la atención y memoria.",
+          "tareas": "Cuadro comparativo entre enfoques tradicionales del comportamiento del consumidor y neuromarketing."
+        },
+        {
+          "numero": 2,
+          "titulo": "Neurobiología cerebral",
+          "objetivo": "Reconocer los procesos neuropsicológicos y sus alteraciones.",
+          "temas_subtemas": ["Neurobiología cerebral", "Estructura", "Funcionalidad", "Métodos de investigación en neurociencia", "Hormonas y neurotransmisores", "Neuronas", "Neuroplasticidad"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 6,
+          "material_investigacion": "Técnicas de neuroimagen (fMRI, EEG), eye-tracking, respuesta galvánica de la piel (GSR) y codificación facial.",
+          "tareas": "Infografía analítica explicando el rol de la dopamina, serotonina y cortisol en la decisión de compra."
+        },
+        {
+          "numero": 3,
+          "titulo": "El cerebro y la conducta",
+          "objetivo": "Describir la importancia del cuidado cerebral y los riesgos de lesiones o daño cerebral.",
+          "temas_subtemas": ["El cerebro y la conducta", "Prevención y consecuencia del daño cerebral", "Métodos y técnicas de cuidado del cerebro saludable: gimnasia cerebral y otros"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 6,
+          "material_investigacion": "Psicología positiva, bienestar mental y sobrecarga cognitiva en entornos digitales hiperestimulados.",
+          "tareas": "Ensayo sobre el diseño ético de interfaces para prevenir la fatiga cognitiva en el usuario digital."
+        },
+        {
+          "numero": 4,
+          "titulo": "Mecanismos en la prevención y cuidado cerebral",
+          "objetivo": "Aplicar mecanismos de prevención y cuidado cerebral.",
+          "temas_subtemas": ["Mecanismos en la prevención y cuidado cerebral", "Pensamientos y emociones que afectan la salud emocional y el daño cerebral"],
+          "horario_propuesto": "Domingo 08:00–12:00",
+          "horas_en_vivo": 6,
+          "material_investigacion": "Psicología de las emociones (Ekman, Damasio) y toma de decisiones intuitiva (Kahneman - Sistema 1 y 2).",
+          "tareas": "Análisis de heurísticos de decisión y sesgos cognitivos aplicados a llamadas a la acción (CTA) en landing pages."
+        },
+        {
+          "numero": 5,
+          "titulo": "Neuropsicología del consumidor en el comportamiento de compra digital",
+          "objetivo": "Aplicar la neuropsicología del consumidor en la compra digital.",
+          "temas_subtemas": ["Neuropsicología del consumidor en el comportamiento de compra digital", "Navegación y principios de interacción", "Diseño de interacción, procesos, métodos y técnicas de neuromarketing"],
+          "horario_propuesto": "Domingo 14:00–18:00",
+          "horas_en_vivo": 6,
+          "material_investigacion": "Estudios de Eye Tracking en comercio electrónico: fijaciones, mapas de calor, patrones en F y Z.",
+          "tareas": "Auditoría neuromarketing de un flujo de checkout de un e-commerce analizando fricciones visuales."
+        },
+        {
+          "numero": 6,
+          "titulo": "Fundamentos de la experiencia de usuario",
+          "objetivo": "Implementar los fundamentos de diseño de interfaz y de experiencia de usuario.",
+          "temas_subtemas": ["Fundamentos de la experiencia de usuario", "Estrategia de diseño, de interfaz y laboratorio de experiencias", "Identificación y gestión de la experiencia de usuario siguiendo los principios éticos y deontológicos"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 5,
+          "material_investigacion": "Heurísticas de usabilidad de Nielsen, Design Thinking y herramientas de prototipado (Figma).",
+          "tareas": "Prototipo interactivo en Figma de una app o web con test de usabilidad heurística y código de ética UX."
+        }
+      ]
+    },
+    {
+      "id": "metricas-rendimiento-analitica-web",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 1,
+      "nombre_asignatura": "Métricas de rendimiento y herramientas de analítica Web",
+      "unidad_organizacion_curricular": "Unidad de Formación Disciplinar Avanzada",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Google Analytics (demostración); Plataforma Moodle; Microsoft Teams; ejercicios prácticos con datos reales. Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Analítica web, indicadores SEO y SEM",
+          "objetivo": "Integrar los indicadores SEO y SEM en la analítica web.",
+          "temas_subtemas": ["Analítica web, indicadores SEO y SEM"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Google Search Console, Semrush/Ahrefs, Google Analytics 4 (GA4) setup y eventos.",
+          "tareas": "Auditoría SEO/SEM con reporte de impresiones, CTR orgánico, posicionamiento de keywords y calidad SEM."
+        },
+        {
+          "numero": 2,
+          "titulo": "Analítica de redes sociales y monitorización de palabras clave",
+          "objetivo": "Monitorizar redes sociales y palabras clave.",
+          "temas_subtemas": ["Analítica de redes sociales y monitorización de palabras clave"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Métricas de engagement, alcance, impresiones y benchmarks por red social.",
+          "tareas": "Informe comparativo de rendimiento de redes sociales con análisis de engagement rate y viralidad."
+        },
+        {
+          "numero": 3,
+          "titulo": "Análisis de conversión de tráfico hacia la página web",
+          "objetivo": "Analizar la conversión del tráfico hacia la página web.",
+          "temas_subtemas": ["Análisis de conversión de tráfico hacia la página web"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Modelos de atribución (primer toque, último toque, data-driven) en GA4.",
+          "tareas": "Taller práctico: Configuración de eventos de conversión personalizados y análisis de embudo de tráfico en GA4."
+        },
+        {
+          "numero": 4,
+          "titulo": "Análisis de interacciones con la marca",
+          "objetivo": "Analizar las interacciones con la marca.",
+          "temas_subtemas": ["Análisis de interacciones con la marca"],
+          "horario_propuesto": "Domingo 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Métricas de Net Promoter Score (NPS), CSAT, tasa de rebote y tiempo promedio de permanencia.",
+          "tareas": "Diagnóstico de lealtad e interacción de usuarios con propuesta de mejora de experiencia de marca."
+        },
+        {
+          "numero": 5,
+          "titulo": "Selección y análisis de las métricas de rendimiento",
+          "objetivo": "Seleccionar y analizar las métricas de rendimiento.",
+          "temas_subtemas": ["Selección y análisis de las métricas de rendimiento"],
+          "horario_propuesto": "Domingo 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Frameworks de KPI: Heart framework de Google, pirámide de métricas de negocio.",
+          "tareas": "Definición del cuadro de mando de indicadores clave (KPI) alineados a objetivos comerciales de la empresa."
+        },
+        {
+          "numero": 6,
+          "titulo": "Selección de opciones tecnológicas y análisis de métricas de rendimiento",
+          "objetivo": "Seleccionar opciones tecnológicas y extraer información de las métricas de control.",
+          "temas_subtemas": ["Selección de opciones tecnológicas y análisis de métricas de rendimiento"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Google Tag Manager (GTM), Looker Studio, Server-side tagging.",
+          "tareas": "Construcción de un tablero automatizado e interactivo en Looker Studio conectado a fuentes reales de datos."
+        }
+      ]
+    },
+    {
+      "id": "comunicacion-corporativa",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 1,
+      "nombre_asignatura": "Comunicación corporativa",
+      "unidad_organizacion_curricular": "Unidad de Formación Disciplinar Avanzada",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Plataforma Moodle; Microsoft Teams; casos de crisis reales; plantillas de comunicación; ejercicios de evaluación con KPI. Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Diseño de contenido corporativo",
+          "objetivo": "Desarrollar contenido corporativo que garantice el reconocimiento social de la organización.",
+          "temas_subtemas": ["Diseño de contenido corporativo"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Storytelling corporativo, notas de prensa digitales, comunicación de sostenibilidad y RSE.",
+          "tareas": "Elaboración de un plan de contenidos de reputación corporativa para audiencias clave."
+        },
+        {
+          "numero": 2,
+          "titulo": "Estrategias de comunicación mix",
+          "objetivo": "Diseñar estrategias de comunicación mix.",
+          "temas_subtemas": ["Estrategias de comunicación mix"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Integración de relaciones públicas digitales, publicidad y marketing directo.",
+          "tareas": "Plan de comunicación integral (Comms Mix) para el lanzamiento de un proyecto institucional."
+        },
+        {
+          "numero": 3,
+          "titulo": "Publicidad ATL, BTL y estrategias promocionales",
+          "objetivo": "Implementar y evaluar estrategias publicitarias y promocionales.",
+          "temas_subtemas": ["Publicidad ATL, BTL y estrategias promocionales"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Campañas híbridas ATL/BTL/TTL (Through the line) y activaciones experienciales.",
+          "tareas": "Estrategia promocional 360° combinando activación digital y punto de contacto físico."
+        },
+        {
+          "numero": 4,
+          "titulo": "Estrategias de persuasión a stakeholders internos",
+          "objetivo": "Diseñar acciones de persuasión dirigidas a stakeholders internos.",
+          "temas_subtemas": ["Estrategias de persuasión a stakeholders internos"],
+          "horario_propuesto": "Domingo 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Endomarketing, employee advocacy y cultura organizacional en la era digital.",
+          "tareas": "Diseño de campaña de endomarketing con programa de embajadores de marca internos."
+        },
+        {
+          "numero": 5,
+          "titulo": "La comunicación en crisis",
+          "objetivo": "Diseñar acciones comunicativas para mitigar los efectos de crisis.",
+          "temas_subtemas": ["La comunicación en crisis"],
+          "horario_propuesto": "Domingo 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Casos de estudio de crisis digitales virales (Social Media Crisis Management).",
+          "tareas": "Manual de gestión de crisis: comité de crisis, árbol de decisiones, comunicados y argumentarios para voceros."
+        },
+        {
+          "numero": 6,
+          "titulo": "Evaluación de las estrategias comunicacionales (KPI's)",
+          "objetivo": "Evaluar el alcance de las estrategias comunicacionales con KPI.",
+          "temas_subtemas": ["Evaluación de las estrategias comunicacionales (KPI's)"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Share of Voice (SOV), valor publicitario equivalente (AVE vs. métricas de impacto real).",
+          "tareas": "Informe final de impacto mediático y reputacional con cálculo de retorno de inversión de la comunicación."
+        }
+      ]
+    },
+    {
+      "id": "gestion-productos-innovacion-digital",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 1,
+      "nombre_asignatura": "Gestión y desarrollo de productos de innovación digital",
+      "unidad_organizacion_curricular": "Unidad de Integración Curricular",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Plataforma Moodle; Microsoft Teams; lienzo de modelo de negocio; estudios de caso; talleres de ideación. Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Innovación empresarial: contextos y capacidad innovadora empresarial",
+          "objetivo": "Identificar el impacto de la innovación como fuente de ventaja competitiva.",
+          "temas_subtemas": ["Innovación empresarial: contextos y capacidad innovadora empresarial", "Contextos", "Capacidad innovadora empresarial"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Manual de Oslo (OCDE), tipos de innovación (producto, proceso, marketing, organizacional).",
+          "tareas": "Diagnóstico de la madurez innovadora de una organización y análisis FODA de capacidades digitales."
+        },
+        {
+          "numero": 2,
+          "titulo": "Modelos y factores clave",
+          "objetivo": "Identificar los modelos vigentes vinculados a la capacidad innovadora empresarial.",
+          "temas_subtemas": ["Modelos y factores clave"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Open Innovation, Innovación Disruptiva (Clayton Christensen), Lean Startup.",
+          "tareas": "Mapeo de ecosistema de innovación abierta para acelerar el desarrollo de soluciones digitales."
+        },
+        {
+          "numero": 3,
+          "titulo": "Desarrollo de nuevos productos",
+          "objetivo": "Desarrollar productos innovadores de acuerdo con las tendencias actuales.",
+          "temas_subtemas": ["Desarrollo de nuevos productos"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Frameworks Scrum/Agile para Product Managers, Product-Market Fit, MVP.",
+          "tareas": "Definición del Producto Mínimo Viable (MVP) con backlog priorizado de funcionalidades (MoSCoW)."
+        },
+        {
+          "numero": 4,
+          "titulo": "Lanzamiento de la idea de nuevos productos",
+          "objetivo": "Realizar un plan de idea de negocio de un nuevo producto.",
+          "temas_subtemas": ["Lanzamiento de la idea de nuevos productos"],
+          "horario_propuesto": "Domingo 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Estrategias de Go-To-Market (GTM), curvas de adopción de la innovación (Rogers).",
+          "tareas": "Plan maestro de Go-To-Market para el lanzamiento comercial de un producto o servicio digital."
+        }
+      ]
+    },
+    {
+      "id": "gestion-financiera-marketing-digital",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 1,
+      "nombre_asignatura": "Gestión Financiera Aplicada al Marketing Digital",
+      "unidad_organizacion_curricular": "Unidad de Formación Disciplinar Avanzada",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Plataforma Moodle; Microsoft Teams; hojas de cálculo (Excel); estados financieros de casos; ejercicios de análisis. Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "La gestión financiera en la empresa",
+          "objetivo": "Conocer los elementos que componen la gestión financiera de una empresa.",
+          "temas_subtemas": ["La gestión financiera en la empresa", "Elementos que componen el sistema financiero", "Rol del mercado de capitales, de dinero y valores", "Participantes, instrumentos y elementos de cada mercado"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Estructura del sistema financiero, costo de capital (WACC) y fuentes de financiamiento para proyectos digitales.",
+          "tareas": "Análisis del entorno macrofinanciero e impacto en las decisiones de inversión en marketing."
+        },
+        {
+          "numero": 2,
+          "titulo": "El proceso de gestión financiera",
+          "objetivo": "Identificar las funciones y los principios de la administración financiera.",
+          "temas_subtemas": ["El proceso de gestión financiera", "Las decisiones financieras de la empresa", "Flujos de fondos", "Flujos de futuros", "Acciones", "Instrumentos de renta fija (bonos)"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Construcción de flujos de caja proyectados (Cash Flow) para unidades de negocio digitales.",
+          "tareas": "Modelado en hoja de cálculo de un flujo de caja operativo y de inversión a 3 años para un proyecto digital."
+        },
+        {
+          "numero": 3,
+          "titulo": "La dirección estratégica y la gestión financiera de una empresa",
+          "objetivo": "Comprender la relación entre la dirección estratégica y la gestión financiera.",
+          "temas_subtemas": ["La dirección estratégica y la gestión financiera de una empresa", "El presupuesto maestro", "Presupuesto operacional", "Presupuesto financiero", "El rol de los pronósticos y su relación con la gestión financiera"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Presupuestación de marketing base cero y porcentual sobre ventas.",
+          "tareas": "Elaboración del presupuesto maestro anual de marketing digital con desglose mensual y análisis de desviaciones."
+        },
+        {
+          "numero": 4,
+          "titulo": "Herramientas de análisis financiero estratégico",
+          "objetivo": "Aplicar herramientas de análisis financiero estratégico para tomar decisiones.",
+          "temas_subtemas": ["Herramientas de análisis financiero estratégico", "La liquidez", "El endeudamiento", "La rentabilidad", "La eficiencia o rotación", "Decisiones que se apoyan con el análisis financiero", "Ciclo de conversión a efectivo", "Análisis vertical y horizontal"],
+          "horario_propuesto": "Domingo 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Ratios financieros clave: liquidez corriente, prueba ácida, DuPont, margen EBITDA.",
+          "tareas": "Análisis financiero vertical y horizontal de estados de resultados de una empresa de comercio electrónico."
+        }
+      ]
+    },
+    {
+      "id": "investigacion-analitica-avanzada",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 2,
+      "nombre_asignatura": "Investigación Analítica Avanzada de Mercados Digitales",
+      "unidad_organizacion_curricular": "Unidad de Integración Curricular",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Plataforma Moodle; Microsoft Teams; Power BI; Google Analytics; casos de estudio. Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Fundamentos de la analítica digital",
+          "objetivo": "Comprender la importancia de los fundamentos de la analítica digital.",
+          "temas_subtemas": ["Fundamentos de la analítica digital"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Data governance, calidad de datos y arquitectura de recopilación analítica.",
+          "tareas": "Auditoría de consistencia de datos en tracking analítico multicanal."
+        },
+        {
+          "numero": 2,
+          "titulo": "Métodos, técnicas y herramientas de evaluación de analítica digital",
+          "objetivo": "Seleccionar métodos, técnicas y herramientas de evaluación de analítica digital.",
+          "temas_subtemas": ["Métodos, técnicas y herramientas de evaluación de analítica digital"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Minería de datos aplicada al marketing, análisis de clusters y correlaciones.",
+          "tareas": "Segmentación estadística de clientes a partir de patrones de navegación y frecuencia de compra."
+        },
+        {
+          "numero": 3,
+          "titulo": "Estrategias de analítica digital",
+          "objetivo": "Aplicar estrategias de analítica digital en las distintas etapas de la estrategia de marketing.",
+          "temas_subtemas": ["Estrategias de analítica digital"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Modelado predictivo de abandono (Churn rate) y valor de ciclo de vida del cliente.",
+          "tareas": "Propuesta estratégica de retención basada en predicciones de comportamiento de usuario."
+        },
+        {
+          "numero": 4,
+          "titulo": "Cuadro de mando digital",
+          "objetivo": "Implementar un cuadro de mando digital de marketing.",
+          "temas_subtemas": ["Cuadro de mando digital"],
+          "horario_propuesto": "Domingo 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Power BI / Tableau para directivos de marketing: KPIs ejecutivos y drill-down.",
+          "tareas": "Dashboard ejecutivo en Power BI con conectores en vivo y filtros multidimensionales."
+        }
+      ]
+    },
+    {
+      "id": "business-intelligence-bi",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 2,
+      "nombre_asignatura": "Business Intelligence (BI): Análisis, Diagnóstico y Toma de decisiones",
+      "unidad_organizacion_curricular": "Unidad de Formación Disciplinar Avanzada",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Power BI; HubSpot; Plataforma Moodle; Microsoft Teams; conjuntos de datos para práctica. Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Correlaciones de datos siguiendo los principios éticos y deontológicos",
+          "objetivo": "Aplicar correlaciones de datos respetando los principios éticos y deontológicos.",
+          "temas_subtemas": ["Correlaciones de datos siguiendo los principios éticos y deontológicos"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Regresión lineal y multivariante, sesgos algorítmicos y consideraciones éticas en Big Data.",
+          "tareas": "Matriz de correlación de variables comerciales con informe ético de tratamiento de datos personales."
+        },
+        {
+          "numero": 2,
+          "titulo": "Softwares de cuadros de mando",
+          "objetivo": "Utilizar software de cuadros de mando para el análisis de marketing.",
+          "temas_subtemas": ["Softwares de cuadros de mando"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Modelado relacional en Power BI (Star Schema, DAX esencial).",
+          "tareas": "Modelo de datos estrella en Power BI calculando medidas DAX clave (Ventas YoY, Margen, Ticket promedio)."
+        },
+        {
+          "numero": 3,
+          "titulo": "Análisis de sentimiento y simulaciones de escenarios",
+          "objetivo": "Analizar el sentimiento de las audiencias y simular escenarios.",
+          "temas_subtemas": ["Análisis de sentimiento y simulaciones de escenarios"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Procesamiento de lenguaje natural (NLP) para análisis de sentimiento y simulación What-If.",
+          "tareas": "Simulación What-If de ingresos ante variaciones de precios y presupuesto publicitario."
+        },
+        {
+          "numero": 4,
+          "titulo": "Integración de los sistemas de inteligencia y de extracción de información",
+          "objetivo": "Integrar sistemas de inteligencia y extracción de información de marketing.",
+          "temas_subtemas": ["Integración de los sistemas de inteligencia y de extracción de información"],
+          "horario_propuesto": "Domingo 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Procesos ETL (Power Query, conectores API de HubSpot, Meta Ads y ERP).",
+          "tareas": "Flujo ETL documentado que unifica datos de CRM, publicidad pagada y facturación."
+        },
+        {
+          "numero": 5,
+          "titulo": "Selección e interpretación de herramientas de diagnóstico",
+          "objetivo": "Seleccionar e interpretar herramientas de diagnóstico para la toma de decisiones.",
+          "temas_subtemas": ["Selección e interpretación de herramientas de diagnóstico"],
+          "horario_propuesto": "Domingo 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Storytelling con datos y presentación de diagnósticos estratégicos al directorio.",
+          "tareas": "Informe diagnóstico ejecutivo con recomendaciones basadas en datos para la toma de decisiones de marketing."
+        }
+      ]
+    },
+    {
+      "id": "embudos-conversion-cro",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 2,
+      "nombre_asignatura": "Análisis y optimización de embudos de conversión",
+      "unidad_organizacion_curricular": "Unidad de Formación Disciplinar Avanzada",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Herramientas de mapas de calor y grabaciones (demostración); Google Analytics; plataforma Moodle; Microsoft Teams; pruebas A/B (demostración). Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Sistemas de información de marketing y sistemas de inteligencia comercial: estrategias y técnicas",
+          "objetivo": "Integrar los sistemas de información de marketing y de inteligencia comercial.",
+          "temas_subtemas": ["Sistemas de información de marketing y sistemas de inteligencia comercial: estrategias y técnicas"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Arquitectura de embudos TOFU, MOFU, BOFU y modelos de inteligencia de clientes.",
+          "tareas": "Mapeo completo del embudo de conversión actual identificando fugas en cada etapa."
+        },
+        {
+          "numero": 2,
+          "titulo": "Análisis cualitativo: grabaciones y mapas de calor",
+          "objetivo": "Analizar grabaciones y mapas de calor del comportamiento del usuario.",
+          "temas_subtemas": ["Análisis cualitativo: grabaciones y mapas de calor"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Hotjar, Microsoft Clarity: scroll maps, click maps, rage clicks y grabaciones de sesión.",
+          "tareas": "Informe de análisis cualitativo identificando 5 barreras críticas de usabilidad mediante mapas de calor."
+        },
+        {
+          "numero": 3,
+          "titulo": "Análisis cuantitativo en funnels de conversión",
+          "objetivo": "Analizar cuantitativamente los funnels de conversión.",
+          "temas_subtemas": ["Análisis cuantitativo en funnels de conversión"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Micro y macro conversiones, tasa de abandono de carrito, formularios y checkout.",
+          "tareas": "Cálculo de tasas de caída (drop-off rates) y priorización de hipótesis de optimización (framework PIE o ICE)."
+        },
+        {
+          "numero": 4,
+          "titulo": "CRO – Customer Research Optimization",
+          "objetivo": "Optimizar la conversión mediante investigación de clientes y pruebas.",
+          "temas_subtemas": ["CRO – Customer Research Optimization"],
+          "horario_propuesto": "Domingo 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Metodología de A/B Testing, significancia estadística (p-value, nivel de confianza 95%).",
+          "tareas": "Diseño de un experimento de prueba A/B con formulación de hipótesis, variantes y métricas de éxito."
+        }
+      ]
+    },
+    {
+      "id": "gestion-proyectos-planes-digitales",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 2,
+      "nombre_asignatura": "Gestión de proyectos y planes digitales",
+      "unidad_organizacion_curricular": "Unidad de Investigación",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Plantillas de VAN y TIR en Excel; Plataforma Moodle; Microsoft Teams; casos de proyectos reales. Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Introducción, planes digitales, ciclo de vida del proyecto y organización",
+          "objetivo": "Gestionar técnicamente la elaboración de proyectos y planes digitales.",
+          "temas_subtemas": ["Introducción, planes digitales, ciclo de vida del proyecto y organización", "Procesos de la dirección de proyectos", "Gestión del alcance", "Gestión del tiempo", "Gestión de los costes", "Gestión de la calidad", "Gestión de los recursos humanos", "Gestión de los riesgos", "Gestión de las adquisiciones"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "PMBOK Guide del PMI, Acta de Constitución del Proyecto (Project Charter), EDT/WBS.",
+          "tareas": "Project Charter y Estructura de Desglose del Trabajo (EDT) para un proyecto de transformación digital."
+        },
+        {
+          "numero": 2,
+          "titulo": "Evaluación financiera de proyectos",
+          "objetivo": "Evaluar financieramente los proyectos que pueden generar valor a la empresa.",
+          "temas_subtemas": ["Evaluación financiera de proyectos", "Modelo de gestión financiera: plan de inversión, financiamiento y utilidad", "Indicadores: Valor Presente Neto (VAN) y Tasa Interna de Retorno (TIR)", "Beneficio–costo, punto de equilibrio, periodo de recuperación (Payback)", "Otros indicadores según organismos de control"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Modelos de evaluación financiera en Excel, tasa de descuento (TMAR).",
+          "tareas": "Evaluación financiera en Excel con cálculo de VAN, TIR, relación B/C y punto de equilibrio."
+        },
+        {
+          "numero": 3,
+          "titulo": "Evaluación económico-social del proyecto",
+          "objetivo": "Analizar la realidad social y proponer alternativas de proyectos técnicamente viables.",
+          "temas_subtemas": ["Evaluación económico-social del proyecto", "Identificación, cuantificación y valoración de los beneficios del proyecto", "Proyección de los elementos económicos y financieros"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Metodología de impacto social y externalidades de proyectos tecnológicos.",
+          "tareas": "Matriz de impacto socioeconómico y cuantificación de beneficios directos e indirectos."
+        },
+        {
+          "numero": 4,
+          "titulo": "Evaluación ambiental del proyecto",
+          "objetivo": "Evaluar el impacto ambiental de los proyectos.",
+          "temas_subtemas": ["Evaluación ambiental del proyecto", "Tipos de proyecto según su impacto ambiental", "Instrumentos para identificar y estudiar el impacto ambiental", "Estudio de impacto ambiental"],
+          "horario_propuesto": "Domingo 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Sostenibilidad digital, huella de carbono de centros de datos y Green IT.",
+          "tareas": "Evaluación de impacto ambiental y plan de mitigación para proyectos de infraestructura digital."
+        },
+        {
+          "numero": 5,
+          "titulo": "Aspectos administrativos y legales del proyecto",
+          "objetivo": "Planificar, organizar, dirigir y ejecutar los aspectos administrativos y legales del proyecto.",
+          "temas_subtemas": ["Aspectos administrativos y legales del proyecto", "Planeación, organización, dirección y ejecución"],
+          "horario_propuesto": "Domingo 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Marco contractual de software, SLA, propiedad intelectual y derechos de autor de activos digitales.",
+          "tareas": "Plan de gestión de riesgos legales y administrativos con acuerdos de nivel de servicio (SLA)."
+        }
+      ]
+    },
+    {
+      "id": "mobile-marketing-advertising",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 2,
+      "nombre_asignatura": "Mobile Marketing y Advertising",
+      "unidad_organizacion_curricular": "Unidad de Investigación",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Plataforma Moodle; Microsoft Teams; aplicaciones móviles de demostración; casos de estudio. Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Mundo VICA (Volátil, Incierto, Complejo y Ambiguo)",
+          "objetivo": "Sintetizar el contexto de negocios analizando escenarios de crisis y cambios constantes.",
+          "temas_subtemas": ["Mundo VICA (Volátil, Incierto, Complejo y Ambiguo)"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Entornos VUCA / BANI y adaptabilidad estratégica en ecosistemas móviles.",
+          "tareas": "Ensayo de análisis del entorno VICA para el sector del comercio móvil y apps."
+        },
+        {
+          "numero": 2,
+          "titulo": "Tipos de innovación y la ruta digital",
+          "objetivo": "Reconocer los tipos de innovación y la ruta digital.",
+          "temas_subtemas": ["Tipos de innovación y la ruta digital"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Rutas de adopción de tecnologías móviles (5G, IoT, geolocalización, Realidad Aumentada).",
+          "tareas": "Hoja de ruta tecnológica (Roadmap) para la digitalización móvil de una empresa de servicios."
+        },
+        {
+          "numero": 3,
+          "titulo": "Los stakeholders digitales",
+          "objetivo": "Identificar digitalmente los stakeholders internos y externos.",
+          "temas_subtemas": ["Los stakeholders digitales"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Ecosistema de usuarios móviles: audiencias multicispositivo, desarrolladores y plataformas de apps.",
+          "tareas": "Matriz de priorización de stakeholders para el lanzamiento de una app corporativa."
+        },
+        {
+          "numero": 4,
+          "titulo": "Características de los dispositivos móviles",
+          "objetivo": "Reconocer las ventajas y desventajas de los dispositivos móviles en el desarrollo empresarial.",
+          "temas_subtemas": ["Características de los dispositivos móviles"],
+          "horario_propuesto": "Domingo 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "PWA (Progressive Web Apps) vs. Apps Nativas, responsive design y tiempos de carga.",
+          "tareas": "Benchmarking técnico y funcional: App Nativa vs. PWA para una tienda en línea."
+        },
+        {
+          "numero": 5,
+          "titulo": "Dispositivos móviles como transportadores de información",
+          "objetivo": "Identificar la efectividad de los dispositivos móviles para llevar información a los stakeholders.",
+          "temas_subtemas": ["Dispositivos móviles como transportadores de información"],
+          "horario_propuesto": "Domingo 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Notificaciones Push, WhatsApp Business API, SMS marketing y mensajes in-app.",
+          "tareas": "Estrategia de comunicación móvil omnicanal con flujos automatizados de WhatsApp y Push."
+        },
+        {
+          "numero": 6,
+          "titulo": "Sistemas de pago en el marketing mobile",
+          "objetivo": "Comprender y seleccionar sistemas de pago en el marketing móvil.",
+          "temas_subtemas": ["Sistemas de pago en el marketing mobile"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Wallets (Apple Pay, Google Pay, Deuna, Kushki, Payphone), estándares de seguridad PCI-DSS.",
+          "tareas": "Cuadro comparativo de pasarelas de pago móvil: comisiones, integración técnica y seguridad."
+        },
+        {
+          "numero": 7,
+          "titulo": "Modelos de medición de la audiencia para el marketing mobile",
+          "objetivo": "Evaluar los modelos de medición de la audiencia en el marketing móvil.",
+          "temas_subtemas": ["Modelos de medición de la audiencia para el marketing mobile"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Métricas de App: DAU, MAU, retención D1/D7/D30, atribución móvil (Adjust, AppsFlyer).",
+          "tareas": "Tablero de métricas mobile con cálculo de costo por instalación (CPI) y Lifetime Value móvil."
+        }
+      ]
+    },
+    {
+      "id": "e-commerce",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 2,
+      "nombre_asignatura": "E-Commerce",
+      "unidad_organizacion_curricular": "Unidad de Formación Disciplinar Avanzada",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Plataforma de comercio electrónico (demostración); Plataforma Moodle; Microsoft Teams; casos de tiendas en línea. Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Introducción al E-commerce",
+          "objetivo": "Comprender los elementos básicos del e-commerce.",
+          "temas_subtemas": ["Introducción al E-commerce"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Modelos de negocio e-commerce (B2C, B2B, D2C, Marketplaces) y tendencias globales.",
+          "tareas": "Análisis comparativo de modelos de negocio en comercio electrónico en el mercado ecuatoriano."
+        },
+        {
+          "numero": 2,
+          "titulo": "Plataforma para implementar una tienda on-line",
+          "objetivo": "Diseñar la plataforma para la tienda en línea.",
+          "temas_subtemas": ["Plataforma para implementar una tienda on-line"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Comparativa técnica: Shopify, WooCommerce, Magento, VTEX, arquitecturas headless.",
+          "tareas": "Matriz técnica de selección de plataforma e-commerce según escala de catálogo y transacciones."
+        },
+        {
+          "numero": 3,
+          "titulo": "Creación de una tienda online",
+          "objetivo": "Proponer e implementar una tienda online.",
+          "temas_subtemas": ["Creación de una tienda online"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Arquitectura de información, taxonomía de productos, pasarela de cobro y logística de envíos.",
+          "tareas": "Implementación práctica de una tienda online funcional con catálogo de productos, pasarela y checkout."
+        },
+        {
+          "numero": 4,
+          "titulo": "Evaluación de la tienda virtual",
+          "objetivo": "Evaluar la incidencia de la tienda virtual en el posicionamiento y la cartera de clientes.",
+          "temas_subtemas": ["Evaluación de la tienda virtual"],
+          "horario_propuesto": "Domingo 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Auditoría de rendimiento de tienda virtual: velocidad de carga, experiencia móvil y seguridad SSL.",
+          "tareas": "Auditoría integral de la tienda virtual con propuestas de optimización de conversión y retención."
+        }
+      ]
+    },
+    {
+      "id": "trabajo-tesis-fin-master",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 2,
+      "nombre_asignatura": "Trabajo de tesis fin de máster",
+      "unidad_organizacion_curricular": "Unidad de Integración Curricular",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Normativa institucional del IPEC; gestor bibliográfico; Plataforma Moodle; Microsoft Teams; tutorías con el docente. Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Base legal",
+          "objetivo": "Conocer y aplicar la base legal mediante la normativa institucional para la integración curricular.",
+          "temas_subtemas": ["Base legal", "Normativa institucional IPEC", "Reglamento de Régimen Académico"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Reglamento de Régimen Académico ESPOCH, Art. 90 y 98 (solicitud y aprobación de anteproyecto).",
+          "tareas": "Redacción y presentación formal del Anteproyecto de Titulación ante la Comisión de Posgrado."
+        },
+        {
+          "numero": 2,
+          "titulo": "Marco teórico referencial",
+          "objetivo": "Formular el marco teórico y conceptual de la investigación.",
+          "temas_subtemas": ["Marco teórico referencial", "Estado del arte", "Fundamentación conceptual"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Gestores bibliográficos (Zotero, Mendeley), búsqueda en Scopus, Web of Science y SciELO.",
+          "tareas": "Capítulo del Marco Teórico con al menos 25 referencias científicas indexadas bajo normas APA."
+        },
+        {
+          "numero": 3,
+          "titulo": "Marco metodológico",
+          "objetivo": "Aplicar el marco metodológico: enfoque, nivel, diseño y métodos de la investigación.",
+          "temas_subtemas": ["Marco metodológico", "Enfoque y diseño", "Población y muestra", "Técnicas e instrumentos"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Metodología de la investigación (Hernández-Sampieri), validación de instrumentos (alfa de Cronbach).",
+          "tareas": "Capítulo Metodológico detallado e instrumentos de recolección de datos diseñados y validados."
+        },
+        {
+          "numero": 4,
+          "titulo": "Propuesta",
+          "objetivo": "Conocer la estructura de la propuesta, conclusiones y recomendaciones del trabajo de investigación.",
+          "temas_subtemas": ["Propuesta", "Desarrollo de la propuesta técnica", "Conclusiones y recomendaciones"],
+          "horario_propuesto": "Domingo 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Estructura final de tesis de posgrado IPEC-ESPOCH, informe de similitud antiplagio (máx. 10%).",
+          "tareas": "Borrador completo de la propuesta de titulación lista para predefensa y dictamen de tribunal."
+        }
+      ]
+    },
+    {
+      "id": "redaccion-publicacion-articulos-ingles",
+      "campo_amplio": "04 Administración",
+      "periodo_academico": 2,
+      "nombre_asignatura": "Redacción y publicación de artículos en inglés",
+      "unidad_organizacion_curricular": "Unidad de Integración Curricular",
+      "docente_asignado": "",
+      "recursos_didacticos_y_tiempo": "Bases de datos científicas; gestor bibliográfico; normas APA; Plataforma Moodle; Microsoft Teams; revisión de manuscritos. Tiempo: 90 h · 16 semanas",
+      "horas_contacto_docente": 48,
+      "horas_aprendizaje_practico_experimental": 20,
+      "total_docente": 68,
+      "horas_aprendizaje_autonomo": 22,
+      "minimo_horas_clase_en_vivo": 35,
+      "total_horas": 90,
+      "total_creditos": 1.875,
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Conceptos preliminares de redacción científica",
+          "objetivo": "Comprender los conceptos preliminares de la redacción científica en inglés.",
+          "temas_subtemas": ["Conceptos preliminares de redacción científica", "Artículo científico y su estructura en idioma inglés", "Importancia para el investigador en idioma extranjero", "Transferencia de resultados", "Análisis de tipos de base de datos, libros y revistas científicas"],
+          "horario_propuesto": "Viernes 17:00–21:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Estructura IMRyD (Introduction, Methods, Results, and Discussion) en revistas de alto impacto (Q1-Q4).",
+          "tareas": "Selección de la revista objetivo (Journal Finder de Elsevier/Springer) y redacción del Abstract en inglés."
+        },
+        {
+          "numero": 2,
+          "titulo": "Citas y referencias bibliográficas",
+          "objetivo": "Emplear citas y referencias bibliográficas en normas APA con software bibliográfico.",
+          "temas_subtemas": ["Citas y referencias bibliográficas", "Qué es una cita y una referencia bibliográfica", "Software bibliográfico", "Guía resumen del manual de publicaciones con normas APA", "Introducción a la redacción científica en inglés"],
+          "horario_propuesto": "Sábado 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Manual APA 7ma edición en inglés, conectores académicos y voz activa en escritura científica.",
+          "tareas": "Construcción de biblioteca bibliográfica automatizada con Mendeley/Zotero y citas precisas en APA 7ma."
+        },
+        {
+          "numero": 3,
+          "titulo": "Base de datos e indexación",
+          "objetivo": "Conocer bases de datos e indexación y diseñar un artículo científico.",
+          "temas_subtemas": ["Base de datos e indexación", "Búsqueda de información bibliográfica", "Diseño de manuscrito: encabezado e introducción", "Materiales y métodos", "Resultados, discusión y conclusiones"],
+          "horario_propuesto": "Sábado 14:00–18:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Indicadores bibliométricos: factor de impacto JCR, CiteScore de Scopus, cuartiles e índice H.",
+          "tareas": "Manuscrito completo del artículo científico en inglés siguiendo la plantilla de la revista indexada."
+        },
+        {
+          "numero": 4,
+          "titulo": "Proceso de sometimiento y respuestas en inglés al editor",
+          "objetivo": "Aplicar el proceso de sometimiento y respuestas en inglés al editor de revistas.",
+          "temas_subtemas": ["Proceso de sometimiento y respuestas en inglés al editor", "Redacción académica en inglés y revisión editorial", "Criterios y revisión de revistas en idioma inglés", "Análisis de revistas de alto impacto en inglés y su indexación", "Base de datos de revistas con factor de impacto en inglés"],
+          "horario_propuesto": "Domingo 08:00–12:00",
+          "horas_en_vivo": 4,
+          "material_investigacion": "Plataformas de sumisión (Editorial Manager, ScholarOne), Cover Letter y Response to Reviewers.",
+          "tareas": "Simulación de envío del manuscrito con Cover Letter al editor y checklist de cumplimiento de autoría."
+        }
+      ]
+    }
+  ]
+}
